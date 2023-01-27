@@ -1,16 +1,5 @@
-# flame_rive_doodle_dash_game
+# Flame + Rive Doodle Dash Game
 
-A new Flutter project.
+This example builds on top of ["Flame Building Doodle Dash"](https://github.com/flutter/codelabs/tree/main/flame-building-doodle-dash) to add a new playable character with [Rive](http://rive.app) animations.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can watch the [tutorial videos](https://www.youtube.com/watch?v=ILTx1Wa33Z0) made by the Flutter team to build the base game.
